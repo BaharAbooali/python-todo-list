@@ -47,5 +47,7 @@ Whenever a task is added, updated, or deleted, the file is updated automatically
 ## How to Run
 
 Run the following commands:
+
 pip install emoji (if you don't have this package yet)
+
 python main.py
